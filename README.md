@@ -45,8 +45,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svghttps://github.com/DAMARJATI88/R-Txzy-V2)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.https://github.com/DAMARJATI88/R-Txzy-V2)
 
 
 # Ambil [seesion.data.json] 
