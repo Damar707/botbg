@@ -45,7 +45,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svghttps://github.com/AlyaaXd/Haruno-Botz)
+[![Deploy](https://www.herokucdn.com/deploy/button.svghttps://github.com/DAMARJATI88/R-Txzy-V2)
 
 
 
